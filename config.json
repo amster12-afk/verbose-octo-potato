@@ -1,0 +1,33 @@
+{
+  "admin_chat_id": 0,
+  "prezzo_a_maglietta": 15,
+  "piani": [
+    "Piano Terra",
+    "Primo Piano",
+    "Secondo Piano"
+  ],
+  "bagni": [
+    "Bagno A",
+    "Bagno B",
+    "Bagno C"
+  ],
+  "intervalli": [
+    "Intervallo 1",
+    "Intervallo 2"
+  ],
+  "giorni": [
+    "Lunedì",
+    "Martedì",
+    "Mercoledì",
+    "Giovedì",
+    "Venerdì"
+  ],
+  "taglie": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ]
+}
